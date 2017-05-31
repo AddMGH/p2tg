@@ -1,1 +1,1 @@
-# p2tg
+# Portal 2 Test Generator
